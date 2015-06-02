@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vtf" format="1">
+  <advance width="1700"/>
+  <outline>
+    <contour>
+      <point x="1670" y="638" type="line"/>
+      <point x="506" y="638" type="line"/>
+      <point x="570" y="504" type="line"/>
+      <point x="799" y="504" type="line"/>
+      <point x="799" y="-97" type="line"/>
+      <point x="740" y="-97" type="line"/>
+      <point x="655" y="-227" type="line"/>
+      <point x="1083" y="-227" type="line"/>
+      <point x="996" y="-97" type="line"/>
+      <point x="936" y="-97" type="line"/>
+      <point x="936" y="504" type="line"/>
+      <point x="1181" y="504" type="line"/>
+      <point x="1181" y="129" type="line"/>
+      <point x="1123" y="129" type="line"/>
+      <point x="1036" y="-4" type="line"/>
+      <point x="1463" y="-4" type="line"/>
+      <point x="1375" y="129" type="line"/>
+      <point x="1318" y="129" type="line"/>
+      <point x="1318" y="290" type="line"/>
+      <point x="1522" y="290" type="line"/>
+      <point x="1522" y="413" type="line"/>
+      <point x="1318" y="413" type="line"/>
+      <point x="1318" y="504" type="line"/>
+      <point x="1584" y="504" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="156" type="line"/>
+      <point x="306" y="504" type="line"/>
+      <point x="351" y="504" type="line"/>
+      <point x="420" y="638" type="line"/>
+      <point x="30" y="638" type="line"/>
+      <point x="103" y="504" type="line"/>
+      <point x="160" y="504" type="line"/>
+      <point x="372" y="-4" type="line"/>
+      <point x="378" y="-4" type="line"/>
+      <point x="497" y="-4" type="line"/>
+      <point x="505" y="-4" type="line"/>
+      <point x="706" y="413" type="line"/>
+      <point x="569" y="413" type="line"/>
+    </contour>
+    <contour>
+      <point x="1095" y="851" type="line"/>
+      <point x="636" y="851" type="line"/>
+      <point x="704" y="722" type="line"/>
+      <point x="1019" y="722" type="line"/>
+    </contour>
+  </outline>
+  <lib/>
+</glyph>
