@@ -1,5 +1,5 @@
 
-Combat is a latin antique typeface with strong serifs. It comes from an early XXth century anarchist newspaper published in Limoges, France, called ?LE COMBAT SOCIAL?. Only the 10 letters of the title were created for printing. 100 years later, the font exists on its own.
+Combat is a latin antique typeface with strong serifs. It comes from an early XXth century anarchist newspaper published in Limoges, France, called LE COMBAT SOCIAL. Only the 10 letters of the title were created for printing. 100 years later, the font exists on its own.
 
 By Martin Desinde, 2015.
 
