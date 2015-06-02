@@ -1,1 +1,1 @@
-Copyright (c) 2015, Martin Desinde <martindesinde@yahoo.fr> for Velvetyne Type Foundry <www.velvetyne.fr>
+
