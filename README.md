@@ -4,6 +4,7 @@ Combat is a latin antique typeface with strong serifs. It comes from an early XX
 By Martin Desinde, 2015.
 
 www.martindesinde.com 
+
 martindesinde@yahoo.fr
 
 Software : FontForge
